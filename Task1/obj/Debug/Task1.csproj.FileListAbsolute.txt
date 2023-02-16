@@ -1,0 +1,8 @@
+D:\knute\oop\OOP2_lab1\Task1\bin\Debug\Task1.exe.config
+D:\knute\oop\OOP2_lab1\Task1\bin\Debug\Task1.exe
+D:\knute\oop\OOP2_lab1\Task1\bin\Debug\Task1.pdb
+D:\knute\oop\OOP2_lab1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\knute\oop\OOP2_lab1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+D:\knute\oop\OOP2_lab1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\knute\oop\OOP2_lab1\Task1\obj\Debug\Task1.exe
+D:\knute\oop\OOP2_lab1\Task1\obj\Debug\Task1.pdb
